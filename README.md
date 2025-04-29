@@ -42,5 +42,5 @@ A simple React note-taking app with no backend.
 
 ## Submission
 
-- GitHub Repo: <your-repo-url>
-- Live Site: <vercel-or-netlify-url>
+- GitHub Repo: <(https://github.com/Hawkeyeeye/Notes-app)>
+- Live Site: <vercel-or-netlify-urlhttps://notes-app-blush-rho.vercel.app/>
